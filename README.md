@@ -1,5 +1,3 @@
-Here’s a professional and recruiter-ready README.md for your Excel grade writer project using openpyxl:
-
 📊 Excel Grade Writer with openpyxl
 This Python project generates a formatted Excel spreadsheet containing student grades across multiple subjects using the openpyxl library. It dynamically calculates average scores per subject and applies styling for readability.
 🚀 Features
@@ -13,6 +11,13 @@ This Python project generates a formatted Excel spreadsheet containing student g
 - openpyxl
 Install with:
 pip install openpyxl
+
+
+To install the required Python package, run the following command in your terminal:
+
+```bash
+pip install openpyxl
+```
 
 
 🧠 How It Works
@@ -35,6 +40,6 @@ You can easily:
 - Change the styling (font, color, alignment)
 - Extend with charts or conditional formatting
 📚 References
-- openpyxl documentation
+- [openpyxl documentation](https://openpyxl.readthedocs.io/en/stable/)
 
 
